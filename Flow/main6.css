@@ -1,0 +1,35 @@
+/* Inserta tu CSS aqui */
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.caja{
+	width: 200px;
+	height: 200px;
+	position: relative;	
+}
+
+.pink{
+	background-color: #ED2251;
+
+}
+
+.blue {
+
+	background-color: #3A81BA;
+	position: absolute;
+	left:200px;
+
+
+}
+
+.green {
+	background-color: #8BAB42;
+
+}
+
+.yellow {
+	background-color: yellow;
+
+}
